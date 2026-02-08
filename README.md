@@ -12,3 +12,55 @@ Gracias a mi excelente participación, clasifiqué a la **Competencia Nacional W
 ![Habilidad 09 - Desarrollo de Software](https://img.shields.io/badge/Habilidad-Desarrollo_de_Software-orange?style=for-the-badge)
 
 </div>
+
+![Prueba](./prueba/docs/images/mockup.png)
+
+## 📚 Tabla de Contenidos
+
+-   [📸 Estructura del Repositorio](#-estructura-del-repositorio)
+-   [📁 Estructura del Repositorio](#-estructura-del-repositorio)
+-   [🎯 Pruebas de Competencia](#-pruebas-de-la-competencia)
+-   [📬 Contacto](#-contacto)
+
+---
+
+## 📸 Evidencia Fotográfica
+
+
+
+---
+
+## 📁 Estructura del Repositorio
+
+```bash
+worldskills-preseleccion-2025/
+├── docs/                       # Documentacion e información de la competencia
+├── prueba                      # Prueba
+└── README.md                   # Documentación principal del repositorio
+```
+
+---
+## 🎯 Pruebas de la Competencia
+
+La prueba se realizó de forma **virtual**, con una duración total de **tres horas**, durante las cuales se desarrollaron los dos módulos.
+
+Para la supervisión, se utilizaron **dos cámaras simultáneas** enfocadas en mi entorno y pantalla, con el fin de asegurar la **transparencia y validez de la evaluación**.
+
+Cada módulo exigía aplicar conocimientos técnicos de manera autónoma, gestionando correctamente el tiempo y demostrando **capacidad de resolución y dominio de las tecnologías utilizadas**.
+
+### Prueba - Recreacion del sistema de un restaurante
+
+Esta prueba consistió en **recrear un sistema de inventario** para un restaurante, evaluando la capacidad para construir un sistema logico y bien construido.
+
+[Ver detalles de la prueba](./prueba/README.md)
+
+---
+
+## 📬 Contacto
+
+Para preguntas, soporte o colaboración, por favor contacta:
+
+-   Juan Pablo Mendoza Lopez
+-   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
+-   LinkedIn: [Juan Mendoza](www.linkedin.com/in/juan-pablo-mendoza-lopez)
+-   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
