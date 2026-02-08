@@ -1,5 +1,7 @@
 # Worldskills Preselección 2025 **– 🥇 Oro Nacional en Desarrollo de Software**
 
+![Prueba](./docs/images/header-photo.png)
+
 Este repositorio recopila el trabajo realizado durante mi **participación en la preselección nacional de WorldSkills Colombia 2025**, en la **habilidad 09 – Desarrollo de Software**, donde alcancé **el primer lugar a nivel nacional** entre los **cinco mejores competidores regionales del país**, de un total de **22 participantes**, representando con orgullo a la **Regional Guajira**.
 
 Nunca había participado en un encuentro de esta magnitud, lo que me exigió un gran esfuerzo y la demostración de mis habilidades.
@@ -13,20 +15,11 @@ Gracias a mi excelente participación, clasifiqué a la **Competencia Nacional W
 
 </div>
 
-![Prueba](./prueba/docs/images/mockup.png)
-
 ## 📚 Tabla de Contenidos
 
--   [📸 Estructura del Repositorio](#-estructura-del-repositorio)
 -   [📁 Estructura del Repositorio](#-estructura-del-repositorio)
--   [🎯 Pruebas de Competencia](#-pruebas-de-la-competencia)
+-   [🎯 Descripcion de la Competencia](#-descripcion-de-la-competencia)
 -   [📬 Contacto](#-contacto)
-
----
-
-## 📸 Evidencia Fotográfica
-
-
 
 ---
 
@@ -40,7 +33,7 @@ worldskills-preseleccion-2025/
 ```
 
 ---
-## 🎯 Pruebas de la Competencia
+## 🎯 Descripcion de la Competencia
 
 La prueba se realizó de forma **virtual**, con una duración total de **tres horas**, durante las cuales se desarrollaron los dos módulos.
 
@@ -48,7 +41,7 @@ Para la supervisión, se utilizaron **dos cámaras simultáneas** enfocadas en m
 
 Cada módulo exigía aplicar conocimientos técnicos de manera autónoma, gestionando correctamente el tiempo y demostrando **capacidad de resolución y dominio de las tecnologías utilizadas**.
 
-### Prueba - Recreacion del sistema de un restaurante
+### Prueba - Desarrollo de un sistema para la administración de un restaurantee
 
 Esta prueba consistió en **recrear un sistema de inventario** para un restaurante, evaluando la capacidad para construir un sistema logico y bien construido.
 
@@ -64,3 +57,4 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Mendoza](www.linkedin.com/in/juan-pablo-mendoza-lopez)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
