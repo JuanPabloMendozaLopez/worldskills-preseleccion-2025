@@ -8,6 +8,8 @@ Nunca había participado en un encuentro de esta magnitud, lo que me exigió un 
 
 Gracias a mi excelente participación, clasifiqué a la **Competencia Nacional WorldSkills Colombia 2025**, donde pude demostrar una vez más mi disciplina y habilidades a escala nacional, con la visión de proyectarme hacia nuevas fronteras
 
+<br>
+
 <div align="center">
 
 ![WorldSkills Preselección 2025](https://img.shields.io/badge/WorldSkills-Preselección_2025-005EB8?style=for-the-badge)
@@ -15,13 +17,15 @@ Gracias a mi excelente participación, clasifiqué a la **Competencia Nacional W
 
 </div>
 
+<br>
+
 ## 📚 Tabla de Contenidos
 
 -   [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 -   [🎯 Descripcion de la Competencia](#-descripcion-de-la-competencia)
 -   [📬 Contacto](#-contacto)
 
----
+<br>
 
 ## 📁 Estructura del Repositorio
 
@@ -32,7 +36,8 @@ worldskills-preseleccion-2025/
 └── README.md                   # Documentación principal del repositorio
 ```
 
----
+<br>
+
 ## 🎯 Descripcion de la Competencia
 
 La prueba se realizó de forma **virtual**, con una duración total de **tres horas**, durante las cuales se desarrollaron los dos módulos.
@@ -47,7 +52,7 @@ Esta prueba consistió en **recrear un sistema de inventario** para un restauran
 
 [Ver detalles de la prueba](./prueba/README.md)
 
----
+<br>
 
 ## 📬 Contacto
 
@@ -57,6 +62,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
