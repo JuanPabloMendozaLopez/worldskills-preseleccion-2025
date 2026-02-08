@@ -55,7 +55,8 @@ Para preguntas, soporte o colaboración, por favor contacta:
 
 -   Juan Pablo Mendoza Lopez
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
--   LinkedIn: [Juan Mendoza](www.linkedin.com/in/juan-pablo-mendoza-lopez)
+-   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
