@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|c:\\users\\jupam\\onedrive\\escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\gastromanager\\gastromanager\\logic\\recipelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|solutionrelative:gastromanager\\logic\\recipelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|c:\\users\\jupam\\onedrive\\escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\gastromanager\\gastromanager\\logic\\ingredientslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|solutionrelative:gastromanager\\logic\\ingredientslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|c:\\users\\jupam\\onedrive\\escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\gastromanager\\gastromanager\\logic\\disheslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|solutionrelative:gastromanager\\logic\\disheslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|c:\\users\\jupam\\onedrive\\escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\gastromanager\\gastromanager\\logic\\categorieslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85501E83-D044-6123-7C58-BF728903E8CE}|GastroManager\\GastroManager.csproj|solutionrelative:gastromanager\\logic\\categorieslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeLogic.cs",
+              "DocumentMoniker": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\RecipeLogic.cs",
+              "RelativeDocumentMoniker": "GastroManager\\Logic\\RecipeLogic.cs",
+              "ToolTip": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\RecipeLogic.cs",
+              "RelativeToolTip": "GastroManager\\Logic\\RecipeLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:28:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IngredientsLogic.cs",
+              "DocumentMoniker": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\IngredientsLogic.cs",
+              "RelativeDocumentMoniker": "GastroManager\\Logic\\IngredientsLogic.cs",
+              "ToolTip": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\IngredientsLogic.cs",
+              "RelativeToolTip": "GastroManager\\Logic\\IngredientsLogic.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:28:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DishesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\DishesLogic.cs",
+              "RelativeDocumentMoniker": "GastroManager\\Logic\\DishesLogic.cs",
+              "ToolTip": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\DishesLogic.cs",
+              "RelativeToolTip": "GastroManager\\Logic\\DishesLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:28:50.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\CategoriesLogic.cs",
+              "RelativeDocumentMoniker": "GastroManager\\Logic\\CategoriesLogic.cs",
+              "ToolTip": "C:\\Users\\jupam\\OneDrive\\Escritorio\\worldskills-preseleccion-2025\\prueba\\solution\\GastroManager\\GastroManager\\Logic\\CategoriesLogic.cs",
+              "RelativeToolTip": "GastroManager\\Logic\\CategoriesLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:28:46.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
