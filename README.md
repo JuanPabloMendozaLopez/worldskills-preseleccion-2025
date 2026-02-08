@@ -1,6 +1,6 @@
 # Worldskills Preselección 2025 **– 🥇 Oro Nacional en Desarrollo de Software**
 
-[🥇 Ver siguiente competencia (Preseleccion)](https://github.com/JuanPabloMendozaLopez/worldskills-colombia-2025)
+[🥇 Ver siguiente competencia (Nacional)](https://github.com/JuanPabloMendozaLopez/worldskills-colombia-2025)
 
 <br>
 
@@ -66,6 +66,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
