@@ -41,7 +41,7 @@ Para la supervisión, se utilizaron **dos cámaras simultáneas** enfocadas en m
 
 Cada módulo exigía aplicar conocimientos técnicos de manera autónoma, gestionando correctamente el tiempo y demostrando **capacidad de resolución y dominio de las tecnologías utilizadas**.
 
-### Prueba - Desarrollo de un sistema para la administración de un restaurantee
+### Prueba - Desarrollo de un sistema para la administración de un restaurante
 
 Esta prueba consistió en **recrear un sistema de inventario** para un restaurante, evaluando la capacidad para construir un sistema logico y bien construido.
 
@@ -57,4 +57,5 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Mendoza](www.linkedin.com/in/juan-pablo-mendoza-lopez)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
