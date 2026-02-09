@@ -4,6 +4,8 @@
 
 [📄 Ver prueba](./docs/WSPRE2025_TP09.pdf)
 
+<br>
+
 Este proyecto consiste en el diseño e implementación de una base de datos relacional, junto con el desarrollo de una aplicación de escritorio para la gestión de platos, ingredientes y recetas.
 
 La solución permite visualizar, filtrar y administrar la información de forma dinámica, simulando un sistema real de gestión para un restaurante.
@@ -25,4 +27,5 @@ Este resultado me permitió destacar entre los demás competidores, evidenciando
 3. Abre el proyecto en tu IDE preferido (por ejemplo, Visual Studio).
 4. Restaura los paquetes y dependencias necesarios.
 5. Ejecuta la aplicación.
+
 
