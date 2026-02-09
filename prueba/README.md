@@ -8,7 +8,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 
 La solución permite visualizar, filtrar y administrar la información de forma dinámica, simulando un sistema real de gestión para un restaurante.
 
-# Observaciones
+## Desempeño Personal
 
 Durante la prueba logré completar el proyecto en su totalidad conforme a las indicaciones establecidas.
 
@@ -25,3 +25,4 @@ Este resultado me permitió destacar entre los demás competidores, evidenciando
 3. Abre el proyecto en tu IDE preferido (por ejemplo, Visual Studio).
 4. Restaura los paquetes y dependencias necesarios.
 5. Ejecuta la aplicación.
+
